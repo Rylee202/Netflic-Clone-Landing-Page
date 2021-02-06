@@ -1,1 +1,1 @@
-# Netflic-Clone-Landing-Page
+# Netflix-Clone-Landing-Page
